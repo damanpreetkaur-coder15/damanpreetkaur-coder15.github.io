@@ -11,7 +11,7 @@
 | 22-07-2024 | Dr. Pushpinder Singh | Dr.Pushpinder Singh informed us about study styles and asked us to identify our study styles to get better results|
 | 22-07-2024 | Dr. Sangeeta | Dr. Sangeeta informed us about sustainable lifestyle|
 	| Date | Resource Person | Description|
-	| Date | Resource Person | Description|
+	| 23-07-2024 | Sharanjeet singh |Sharanjeet Singh and one of his friend told us about how the AI I machine learning works and it won't a steel basics of that they also explain us the use of functions in Excel It was a good learning class by our peers |
 	| 24-07-2024 | Mr.Gauravdeep Singh |Mr gauravdeep Singh founder and chairman of initiators of change sharing his vision as social entrepreneur humantarian worker and motivational speaker he also shared about his life ans his life journey motivated us|
 	| 24-07-2024 | Lakhveer Singh |Engineer Lakhbir Singh cml guiding students on various Naaptol courses to enhance their skills |
 	| 24-07-204 | Causmic Club | Members of Causmic Club told us about their club and events organised by them |
