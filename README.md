@@ -14,7 +14,7 @@
 	| Date | Resource Person | Description|
 	| Date | Resource Person | Description|
 	| Date | Resource Person | Description|
-	| 24-07-204 | Causmic Club | Members of Causmic Club told us about their club and events organised by them|
+	| 24-07-204 | Causmic Club | Members of Causmic Club told us about their club and events organised by them |
 	| 25-07-2024 | Ms.Mandeep Kur  | Ms.Mandeep Kaur explained about exam pattern of chemistry and dicussed use of chemistry in daily life |
 	| 25-07-2024 | Ms. Nisha  | Ms.Nisha conducted a class group discussions about topics we learn in UHV class|
 | 26-07-2024 | Dr. Knawalpreet Kaur Bhatt | Dr Kamalpreet corporate Homeopathic practicener for 20 years of experience sins Virus all with her wisdom and to make a practice meditation she held a practical session for meditation for 15 minutes|
