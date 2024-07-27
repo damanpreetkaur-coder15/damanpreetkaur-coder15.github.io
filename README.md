@@ -9,7 +9,7 @@
 	| Date | Resource Person | Description|
 	| Date | Resource Person | Description|
 	| Date | Resource Person | Description|
-	| Date | Resource Person | Description|
+	| Date | Ms.Nisha | Ms.Nisha taught us about topic of UHV harmony amonng society and taught us some valuanle lessons|
 	| 18-07-2024 | S.Gurcharan Singh Grewal | S. Gurcharan Singh Grewal secretary of sgpc and member of nset shared important value and share words of wisdom and inspiration with all the students|
 	| 18-07-2024 | Pr.Harpal Singh Pannu | Pr. Harapl Singh Pannu shared knowledge and insights about religious things as well as he shared his life experience that how he studied and how he helped his sister to get her degree|
 | 19-07-2024 | Er. Kanwardeep Kalra | Er. Kanwardeep Kalra gave us information about soft skills|
