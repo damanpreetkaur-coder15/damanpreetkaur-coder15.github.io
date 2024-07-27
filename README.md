@@ -6,7 +6,8 @@
 | 15-07-2024 |  |Dr Pyare Lal Garg | Dr Pyare Lal Garg told us important things|
 	| Date | Resource Person | Description|
 	| Date | Resource Person | Description|
-	| Date | Resource Person | Description|
+	| 17-07-2024 | Ms. Nisha |Ms. Nisha taught us about harmony in family which is a topic of UHV subject |
+ |            |           | |
 	| 18-07-2024 | Er.Jasvir Singh | He told us his experience about NSS and works done by NSS|
 	| 18-07-2024 | Dr.Harvinder Singh(ANO) |Dr Harvinder Singh nurture  our minds and spirit with his expertise and passion about NCC he told students the benefits of joining it |
 	| 18-07-2024 | Ms.Nisha | Ms.Nisha taught us about topic of UHV harmony amonng society and taught us some valuanle lessons|
