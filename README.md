@@ -10,3 +10,4 @@
 | 22-07-2024 | Dr.SB Singh | Dr.SB Singh given us activity to write about ourselves and given us valuable lessons|
 | 22-07-2024 | Dr. Pushpinder Singh | Dr.Pushpinder Singh informed us about study styles and asked us to identify our study styles to get better results|
 | 22-07-2024 | Dr. Sangeeta | Dr. Sangeeta informed us about sustainable lifestyle|
+| 26-07-2024 | Dr. Knawalpreet Kaur Bhatt | Dr Kamalpreet corporate Homeopathic practicener for 20 years of experience sins Virus all with her wisdom and to make a practice meditation she held a practical session for meditation for 15 minutes|
