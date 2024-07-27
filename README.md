@@ -13,7 +13,7 @@
 	| Date | Resource Person | Description|
 	| Date | Resource Person | Description|
 	| Date | Resource Person | Description|
-	| Date | Resource Person | Description|
+	| 24-07-2024 | Lakhveer Singh |Engineer Lakhbir Singh cml guiding students on various Naaptol courses to enhance their skills |
 	| 24-07-204 | Causmic Club | Members of Causmic Club told us about their club and events organised by them |
 	| 25-07-2024 | Ms.Mandeep Kur  | Ms.Mandeep Kaur explained about exam pattern of chemistry and dicussed use of chemistry in daily life |
 	| 25-07-2024 | Ms. Nisha  | Ms.Nisha conducted a class group discussions about topics we learn in UHV class|
