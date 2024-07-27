@@ -4,6 +4,14 @@
 	| Date | Resource Person | Description|
 | ----------- | ----------- | ---------|
 | 15-07-2024 |  |Dr Pyare Lal Garg | Dr Pyare Lal Garg told us important things|
+	| Date | Resource Person | Description|
+	| Date | Resource Person | Description|
+	| Date | Resource Person | Description|
+	| Date | Resource Person | Description|
+	| Date | Resource Person | Description|
+	| Date | Resource Person | Description|
+	| Date | Resource Person | Description|
+	| 18-07-2024 | Pr.Harpal Singh Pannu | Pr. Harapl Singh Pannu shared knowledge and insights about religious things as well as he shared his life experience that how he studied and how he helped his sister to get her degree|
 | 19-07-2024 | Er. Kanwardeep Kalra | Er. Kanwardeep Kalra gave us information about soft skills|
 | 19-07-2024 | Jaswinder Singh | Jaswinder Singh taught us some concepts of physics and maths in a fun and easy manner |
 | 22-07-2024 | Nisha mam  | Nisha mam and one more teacher arranged a english activity for A and B section|
