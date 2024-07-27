@@ -4,7 +4,7 @@
 	| Date | Resource Person | Description|
 | ----------- | ----------- | ---------|
 | 15-07-2024 |  |Dr Pyare Lal Garg | Dr Pyare Lal Garg told us important things|
-	| Date | Resource Person | Description|
+	| 16-07-2024 | Er.Harjot Kaur | She made us visit to IT department there we saw labs like high performimg computing lab ,DBMS lab , hardware lab etc . we also visited t&p cell|
 	| 16-07-2024 | Dr.Amit Kamra | Dr.Amit Kamra asked us to answer his some questions like our long term and short term goals .he also taught us how to give introduction|
 	| 17-07-2024 | Ms. Nisha |Ms. Nisha taught us about harmony in family which is a topic of UHV subject |
  | 17-07-2024 | Peer Interaction (Harsimran Singh) | Our seniors of cse branch 2 and 4 year infomed us so many important things which are going to be very useful for us in future years |
