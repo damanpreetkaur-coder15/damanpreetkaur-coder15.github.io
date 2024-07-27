@@ -12,7 +12,7 @@
 | 22-07-2024 | Dr. Sangeeta | Dr. Sangeeta informed us about sustainable lifestyle|
 	| Date | Resource Person | Description|
 	| Date | Resource Person | Description|
-	| 24-07-2024 | Mr.Gauravdeep Singh |Mr gauravdeep Singh founder and chairman of initiators of change sharing his vision as social entrepreneur humantarian worker and motivational speaker |
+	| 24-07-2024 | Mr.Gauravdeep Singh |Mr gauravdeep Singh founder and chairman of initiators of change sharing his vision as social entrepreneur humantarian worker and motivational speaker he also shared about his life ans his life journey motivated us|
 	| 24-07-2024 | Lakhveer Singh |Engineer Lakhbir Singh cml guiding students on various Naaptol courses to enhance their skills |
 	| 24-07-204 | Causmic Club | Members of Causmic Club told us about their club and events organised by them |
 	| 25-07-2024 | Ms.Mandeep Kur  | Ms.Mandeep Kaur explained about exam pattern of chemistry and dicussed use of chemistry in daily life |
