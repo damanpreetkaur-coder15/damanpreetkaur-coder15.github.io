@@ -4,7 +4,7 @@
 	| Date | Resource Person | Description|
 | ----------- | ----------- | ---------|
 | Date | Resource Person | Description|
-| Date | Resource Person | Description|
+| 15-07-2024 | Mr.Pancham Jai Singh Gill |Mr Pancham student of Mechanical Engineering 4th year he explained us that how our posture affects our personality and he also shared about  the competition which is held all over India about RC which is handmade he also shared that how to identify persons feelings from facial gestures or expressions |
 | 15-07-2024 | Mr.Sony Goyal |Mr. Soni Goyal make us understood that  our strength is the biggest thing that we need to achieve our goals and he also explain us three to four success Mantras |
 | 15-07-2024 |  |Dr Pyare Lal Garg | Dr Pyare Lal Garg told us important things|
 	| 16-07-2024 | Er.Harjot Kaur | She made us visit to IT department there we saw labs like high performimg computing lab ,DBMS lab , hardware lab etc . we also visited t&p cell|
