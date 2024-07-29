@@ -4,7 +4,7 @@
 	| Date | Resource Person | Description|
 | ----------- | ----------- | ---------|
 | 12-07-2024 | Peer Interaction | Our seniors of cse branch 2 and 4 year infomed us so many important things which are going to be very useful for us in future years and they also shared exam patter with us|
-| Date | Resource Person | Description|
+| 12-07-2024 | Dr.Sandeep kaur Gill | Dr.Sandeep Kaur Gill conducted a introduction of all the students |
 | 15-07-2024 | Pr.Randhir Singh |Professor Randhir Singh interacted with students and explain them how to make a account on github and how to upload and write activity report about induction program 2024 he also discuss about the exam pattern of exams |
 | 15-07-2024 | Mr.Pancham Jai Singh Gill |Mr Pancham student of Mechanical Engineering 4th year he explained us that how our posture affects our personality and he also shared about  the competition which is held all over India about RC which is handmade he also shared that how to identify persons feelings from facial gestures or expressions |
 | 15-07-2024 | Mr.Sony Goyal |Mr. Soni Goyal make us understood that  our strength is the biggest thing that we need to achieve our goals and he also explain us three to four success Mantras |
