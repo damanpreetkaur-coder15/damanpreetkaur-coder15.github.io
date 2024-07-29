@@ -3,6 +3,9 @@
 
 	| Date | Resource Person | Description|
 | ----------- | ----------- | ---------|
+| Date | Resource Person | Description|
+| Date | Resource Person | Description|
+| 15-07-2024 | Mr.Sony Goyal |Mr. Soni Goyal make us understood that  our strength is the biggest thing that we need to achieve our goals and he also explain us three to four success Mantras |
 | 15-07-2024 |  |Dr Pyare Lal Garg | Dr Pyare Lal Garg told us important things|
 	| 16-07-2024 | Er.Harjot Kaur | She made us visit to IT department there we saw labs like high performimg computing lab ,DBMS lab , hardware lab etc . we also visited t&p cell|
 	| 16-07-2024 | Dr.Amit Kamra | Dr.Amit Kamra asked us to answer his some questions like our long term and short term goals .he also taught us how to give introduction|
